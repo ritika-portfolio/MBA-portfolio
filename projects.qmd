@@ -1,0 +1,45 @@
+# 💼 Projects & Case Studies
+
+Welcome to a curated selection of the most impactful projects I’ve completed during my MBA journey at **University Canada West**. These projects highlight my practical skills in data analysis, strategic planning, digital transformation, and ethical decision-making, powered by tools and technologies relevant to today’s business world.
+
+---
+
+## 📊 Smarties Control Chart Analysis
+**Course:** Business Analytics  
+**Tools Used:** Microsoft Excel, Control Charts, Descriptive Statistics  
+Performed quality control analysis on Smarties packaging using Excel-based control charts. Identified variability across packs and proposed solutions to improve process consistency and operational efficiency.
+
+---
+
+## 🎯 Netflix Ad-Supported Business Model
+**Course:** Marketing Management  
+**Tools Used:** Quarto, APA Style Formatting, SWOT Analysis, 4Ps Model  
+Developed a consulting-style report evaluating Netflix's potential introduction of an ad-supported subscription model. Included competitive research, customer segmentation, and strategic pricing recommendations.
+
+---
+
+## 💰 Financial Analysis of Saputo Inc.
+**Course:** Managerial Finance  
+**Tools Used:** Financial Statements, Ratio Analysis, Microsoft Excel, PowerPoint  
+Assessed Saputo Inc.'s liquidity, solvency, and profitability using multi-year financial data. Presented investment recommendations based on calculated ratios and trend comparisons.
+
+---
+
+## 🏗️ Infrastructure Project WBS – Post-Flood Road Recovery
+**Course:** Project Management  
+**Tools Used:** Work Breakdown Structure (WBS), WBS Dictionary, APA Formatting, MS Word  
+Developed a WBS and dictionary for a hypothetical infrastructure rebuilding effort. Outlined deliverables, timelines, dependencies, and risk areas in professional project planning format.
+
+---
+
+## ⚙️ Digital Transformation in the Legal Sector
+**Course:** Business Process Management / Research Paper  
+**Tools Used:** Secondary Research, Cost Analysis, APA Citations, Microsoft Word  
+Analyzed how law firms can modernize through digital platforms like Clio and DocuSign. Covered AI tools (Kira Systems, Casetext), CRM (Salesforce Legal Cloud), and blockchain for smart contracts.
+
+---
+
+## 🤖 AI vs. Robotics Strategy for a Scaling Food Company
+**Course:** Information Systems (CMPT 641)  
+**Tools Used:** Case Study Analysis, Strategic Comparison, AI Integration Diagrams, Microsoft Word  
+Recommended AI over robotics for a growing food business by analyzing real-world tech implementations at Amazon, RightHand Robotics, and Blendid. Focused on inventory management, demand forecasting, and cost-effectiveness.

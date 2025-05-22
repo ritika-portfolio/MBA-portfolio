@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Ritika's MBA Portfolio"
+  navbar:
+    left:
+      - text: Home
+        file: home.qmd
+      - text: Resume
+        file: resume.qmd
+      - text: Projects
+        file: projects.qmd
+      - text: Skills
+        file: skills.qmd
+      - text: Contact
+        file: contact.qmd
+project:
+  type: website
+  output-dir: docs
