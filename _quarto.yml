@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Ritika's MBA Portfolio"
@@ -15,6 +16,3 @@ website:
         file: skills.qmd
       - text: Contact
         file: contact.qmd
-project:
-  type: website
-  output-dir: docs
